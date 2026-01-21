@@ -77,7 +77,4 @@ Query practice focused on joins, filters, and error analysis.
 📧 **Email:** wenrg007@gmail.com  
 💼 **LinkedIn:** www.linkedin.com/in/wendy-sarahi-rodríguez-gutiérrez
 
----
 
-🐍  
-![Snake](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
