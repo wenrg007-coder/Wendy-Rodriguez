@@ -1,1 +1,89 @@
-# Wendy-Rodriguez
+# Hi 👋 I'm Wendy
+
+🎯 **QA Junior / Software Tester**  
+Mechatronics Engineer with a strong quality mindset and hands-on experience in manual and automated testing.
+
+---
+
+## 🧩 About Me
+
+🌍 Mexico  
+🎓 Mechatronics Engineer  
+🧪 QA Trainee at **TripleTen**  
+🔍 Focused on finding defects early and improving product quality  
+🌱 Learning automation, API testing, and SQL
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧪 Testing
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-✔️-informational)
+![API Testing](https://img.shields.io/badge/API_Testing-REST-blue)
+![Pytest](https://img.shields.io/badge/Pytest-automation-green)
+
+### 💻 Languages & DB
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![SQL](https://img.shields.io/badge/SQL-queries-lightgrey)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-version_control-orange)
+![GitHub](https://img.shields.io/badge/GitHub-repositories-black)
+![Postman](https://img.shields.io/badge/Postman-API-orange)
+![JSON](https://img.shields.io/badge/JSON-data-lightgrey)
+![CLI](https://img.shields.io/badge/CLI-terminal-lightgrey)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
+
+---
+
+## 🚀 Featured QA Projects
+
+### 🛒 Urban Grocers — API Automation
+Automated tests for user and product kit creation.
+
+**✔️ What I tested**
+- Positive & negative scenarios  
+- Field validations  
+- Status codes & error handling  
+
+**Tech:** Python · Pytest · REST API  
+🔗 Repo: `qa-api-urban-grocers`
+
+---
+
+### 🚕 Urban Routes — Web App Testing
+Manual testing for a car-sharing web application.
+
+**✔️ What I tested**
+- UI & functionality  
+- Cross-browser (Chrome / Firefox)  
+- Different screen resolutions  
+
+**Tech:** Manual Testing · Browsers  
+🔗 Repo: `qa-urban-routes`
+
+---
+
+### 🧪 SQL & Logs Analysis
+Query practice focused on joins, filters, and error analysis.
+
+**Tech:** SQL · CLI  
+🔗 Repo: `qa-sql-practice`
+
+---
+
+## 📫 Contact
+
+📧 **Email:** wenrg007@gmail.com  
+💼 **LinkedIn:** www.linkedin.com/in/wendy-sarahi-rodríguez-gutiérrez
+
+---
+
+🐍  
+![Snake](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
