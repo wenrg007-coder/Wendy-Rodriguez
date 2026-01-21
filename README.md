@@ -35,12 +35,6 @@ Mechatronics Engineer with a strong quality mindset and hands-on experience in m
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
-
----
 
 ## 🚀 Featured QA Projects
 
