@@ -21,6 +21,7 @@ Mechatronics Engineer with a strong quality mindset and hands-on experience in m
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-✔️-informational)
 ![API Testing](https://img.shields.io/badge/API_Testing-REST-blue)
 ![Pytest](https://img.shields.io/badge/Pytest-automation-green)
+?icon=[atom]
 
 ### 💻 Languages & DB
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
