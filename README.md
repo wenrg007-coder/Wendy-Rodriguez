@@ -39,37 +39,7 @@ Mechatronics Engineer with a strong quality mindset and hands-on experience in m
 
 ## 🚀 Featured QA Projects
 
-### 🛒 Urban Grocers — API Automation
-Automated tests for user and product kit creation.
 
-**✔️ What I tested**
-- Positive & negative scenarios  
-- Field validations  
-- Status codes & error handling  
-
-**Tech:** Python · Pytest · REST API  
-🔗 Repo: `qa-api-urban-grocers`
-
----
-
-### 🚕 Urban Routes — Web App Testing
-Manual testing for a car-sharing web application.
-
-**✔️ What I tested**
-- UI & functionality  
-- Cross-browser (Chrome / Firefox)  
-- Different screen resolutions  
-
-**Tech:** Manual Testing · Browsers  
-🔗 Repo: `qa-urban-routes`
-
----
-
-### 🧪 SQL & Logs Analysis
-Query practice focused on joins, filters, and error analysis.
-
-**Tech:** SQL · CLI  
-🔗 Repo: `qa-sql-practice`
 
 ---
 
