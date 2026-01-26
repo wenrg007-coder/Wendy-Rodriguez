@@ -1,4 +1,4 @@
-# Hi 👋 I'm Wendy
+# Hi I'm Wendy
 
 🎯 **QA Junior / Software Tester**  
 Mechatronics Engineer with a strong quality mindset and hands-on experience in manual and automated testing.
