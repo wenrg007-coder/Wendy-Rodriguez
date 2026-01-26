@@ -36,7 +36,6 @@ Mechatronics Engineer with a strong quality mindset and hands-on experience in m
 
 ---
 
-
 ## 🚀 Featured QA Projects
 
 
